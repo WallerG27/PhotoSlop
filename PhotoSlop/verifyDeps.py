@@ -20,7 +20,7 @@ from pathlib import Path
 DOWNLOAD_FILE = Path("requirements.txt")
 
 # The SHA256 of the requirements.txt
-EXPECTED_HASH = "8cc9c69c53f40d19321339ffaf4142a5cf15db40fef01aceb44834854ffe14b4"
+EXPECTED_HASH = "4b5510c08a5e89d005bcca5a3126b6cb27c9a8fdb198c32c6185f8c05d610788"
 
 
 # Function to calculate the SHA256 hash of a file
